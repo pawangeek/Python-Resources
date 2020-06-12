@@ -1,3 +1,8 @@
+# Python
+| About  | Code + Article |
+| ------------- | ------------- |
+| Variables Guide | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/Variables.md) |
+
 # Python-Resources
 
 | About  | Code | Article |
