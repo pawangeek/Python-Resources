@@ -1,6 +1,6 @@
 ## Intro trick
 
-```
+```python
 import sys
 
 a = [1,2]
@@ -12,7 +12,7 @@ sys.getsizeof(b) #72
 
 ## 1. Empty not empty
 
-```
+```python
 import sys
 
 sys.getsizeof("")       # 49
@@ -26,7 +26,8 @@ sys.getsizeof(True)     # 28
 ```
 
 ## 2. Memory Expansion
-```
+
+```python
 import sys
 letters = "abcdefghijklmnopqrstuvwxyz"
 
@@ -48,7 +49,7 @@ for k in letters:
 
 ## 3. No memory Release
 
-```
+```python
 import sys
 
 a = [1,2,3,4]
@@ -63,7 +64,7 @@ sys.getsizeof(a)  # 120
 
 ## 4. No empty dictionary
 
-```
+```python
 import sys
 
 a = [1,2,3]
@@ -78,7 +79,7 @@ a.clear()
 b.clear()
 c.clear()
 ```
-```
+```python
 sys.getsizeof(a)  # 56
 sys.getsizeof(b)  # 216
 sys.getsizeof(c)  # 64
