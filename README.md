@@ -2,6 +2,7 @@
 | About  | Code + Article |
 | ------------- | ------------- |
 | Variables Guide | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/Variables.md) |
+| If-else Guide | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/If-else.md) |
 
 # Python-Resources
 
