@@ -1,6 +1,8 @@
+# Python Optimization Tricks
+
 ## 1. Avoid global variables
 **Wrong way**
-```
+```python
 import math
 size = 10000
 for x in range(size):
@@ -8,7 +10,7 @@ for x in range(size):
         z = math.sqrt(x) + math.sqrt(y)
 ```
 **Correct way**
-```
+```python
 import math
 def main():
     size = 10000
@@ -19,7 +21,7 @@ main()
 ```
 ## 2.1 Avoid access to module and function properties
 **Wrong way**
-```
+```python
 import math
 def computeSqrt(size: int):
     result = []
@@ -33,7 +35,7 @@ def main():
 main()
 ```
 **Correct Way**
-```
+```python
 from math import sqrt
 def computeSqrt(size: int):
     result = []
@@ -48,13 +50,13 @@ main()
 ```
 ## 2.2 Avoid intra-class attribute access
 **Wrong way**
-```
+```python
 import math
 from typing import List
 class DemoClass:
     def __init__(self, value: int):
         self._value = value
-    
+
     def computeSqrt(self, size: int) -> List[float]:
         result = []
         append = result.append
@@ -70,13 +72,13 @@ def main():
 main()
 ```
 **Correct way**
-```
+```python
 import math
 from typing import List
 class DemoClass:
     def __init__(self, value: int):
         self._value = value
-    
+
     def computeSqrt(self, size: int) -> List[float]:
         result = []
         append = result.append
@@ -94,7 +96,7 @@ main()
 ## 3. Avoid unnecessary abstractions
 ```
 **Wrong way**
-```
+```python
 class DemoClass:
     def __init__(self, value: int):
         self.value = value
@@ -113,7 +115,7 @@ def main():
 main()
 ```
 **Correct way**
-```
+```python
 class DemoClass:
     def __init__(self, value: int):
         self.value = value
@@ -127,7 +129,7 @@ main()
 ```
 ## 4.1 Avoid meaningless data copying
 **Wrong Way**
-```
+```python
 def main():
     size = 10000
     for _ in range(size):
@@ -147,7 +149,7 @@ main()
 ```
 ## 4.2 Intermediate variables are not used when exchanging values
 **Wrong Way**
-```
+```python
 def main():
     size = 1000000
     for _ in range(size):
@@ -159,7 +161,7 @@ def main():
 main()
 ```
 **Correct Way**
-```
+```python
 def main():
     size = 1000000
     for _ in range(size):
@@ -170,7 +172,7 @@ main()
 ```
 ## 4.3 String concatenation join instead of '+'
 **Wrong Way**
-```
+```python
 import string
 from typing import List
 def concatString(string_list: List[str]) -> str:
@@ -185,7 +187,7 @@ def main():
 main()
 ```
 **Correct Way**
-```
+```python
 import string
 from typing import List
 def concatString(string_list: List[str]) -> str:
@@ -198,7 +200,7 @@ main()
 ```
 ## 5.1 Cycle optimization
 **Wrong way**
-```
+```python
 def computeSum(size: int) -> int:
     sum_ = 0
     i = 0
@@ -213,7 +215,7 @@ def main():
 main()
 ```
 **Correct way**
-```
+```python
 def computeSum(size: int) -> int:
     sum_ = 0
     for i in range(size):
@@ -227,7 +229,7 @@ main()
 ```
 ## 5.3 For Calculations to reduce inner circulation
 **Wrong Way**
-```
+```python
 from math import sqrt
 def main():
     size = 10000
@@ -237,7 +239,7 @@ def main():
 main()
 ```
 **Correct Way**
-```
+```python
 import math
 def main():
     size = 10000
@@ -248,7 +250,7 @@ for x in range(size):
 main()
 ```
 ## 6. Use Numba.jit
-```
+```python
 import numba
 @numba.jit
 def computeSum(size: float) -> int:

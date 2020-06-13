@@ -1,3 +1,5 @@
+# Memory Allocation Tricks
+
 ## Intro trick
 
 ```python
@@ -35,12 +37,12 @@ a = []
 for i in letters:
   a.append(i)
   print(f'{len(a)}, sys.getsizeof(a) = {sys.getsizeof(a)}')
-  
+
 b = set()
 for j in letters:
   b.add(j)
   print(f'{len(b)}, sys.getsizeof(b) = {sys.getsizeof(b)}')
-  
+
 c = dict()
 for k in letters:
   c[k]=k
