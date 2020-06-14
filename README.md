@@ -4,6 +4,8 @@
 | Variables Guide | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/Variables.md) |
 | If-else Guide | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/If-else.md) |
 | String and Numbers | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/03.%20Number-strings.md) |
+| Containers | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/04.%20Container-types.md) |
+| Functions | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/05.%20Functions.md) |
 
 # Python-Resources
 
