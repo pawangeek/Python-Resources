@@ -15,7 +15,9 @@
 | Python Tricks  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Python-Tricks.md) | [Article](https://towardsdatascience.com/do-you-have-these-python-speedup-skills-3fd9e7758765) |
 | SQL Tricks  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Sql-Tricks.md) | [Article](https://towardsdatascience.com/how-to-optimize-sql-queries-742177cd5cc65) |
 | Funny Tricks | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/funny_eggs.md) | [Article](https://medium.com/@pawanjain.432/do-you-know-python-funny-eggs-decd12a0e06c) (Unlisted) |
-| Memory Management | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Memory-Secrets.md) | [Article](https://towardsdatascience.com/dark-secrets-of-python-memory-allocation-c5d22879d8a9)
+| Memory Management | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Memory-Secrets.md) | [Article](https://towardsdatascience.com/dark-secrets-of-python-memory-allocation-c5d22879d8a9) |
+| Hypothesis Testing | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Hypothesis-test.md) | Article (Soon) |
+
 
 
 ### More to come Just stay Tuned 😊
