@@ -17,7 +17,8 @@
 | Funny Tricks | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/funny_eggs.md) | [Article](https://medium.com/@pawanjain.432/do-you-know-python-funny-eggs-decd12a0e06c) (Unlisted) |
 | Memory Management | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Memory-Secrets.md) | [Article](https://towardsdatascience.com/dark-secrets-of-python-memory-allocation-c5d22879d8a9) |
 | Hypothesis Testing | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Hypothesis-test.md) | [Article](https://towardsdatascience.com/informative-and-practical-guide-of-hypothesis-testing-9c8a3d9472f7) |
-| Merge Lists  | [Code](https://github.com/pawangeek/Python-Resources/tree/master/Cool-stuff/Merging-lists.md) | Article (Soon) |
+| Merge Lists  | [Code](https://github.com/pawangeek/Python-Resources/tree/master/Cool-stuff/Merging-lists.md) | [Article](https://towardsdatascience.com/i-know-eight-ways-to-merge-lists-3f80259bb74f) |
+| Built-in Functions  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Built-ins.md) | [Article](https://towardsdatascience.com/8-super-easy-to-use-python-built-in-functions-fa873e66085) |
 
 
 
