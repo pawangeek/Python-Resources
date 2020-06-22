@@ -31,5 +31,14 @@
 | ------------- | ------------- | ----------- |
 | Hypothesis Testing | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Hypothesis-test.md) | [Article](https://towardsdatascience.com/informative-and-practical-guide-of-hypothesis-testing-9c8a3d9472f7) |
 
+# Upcoming 
+
+| About  |
+| ------------- |
+| Walrus operators |
+| Optimize SQL 2 |
+| Activation fuctions |
+| Black magics in Python |
+
 
 ### More to come Just stay Tuned 😊
