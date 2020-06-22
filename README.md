@@ -22,7 +22,7 @@
 
 | About  | Code | Article |
 | ------------- | ------------- | ----------- |
-| SQL Tricks  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Sql-Tricks.md) | [Article](https://towardsdatascience.com/how-to-optimize-sql-queries-742177cd5cc65) |
+| SQL Tricks  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Sql-Tricks.md) | [Article](https://towardsdatascience.com/how-to-optimize-sql-queries-742177cd5cc6) |
 
 
 # Data-Science Related
