@@ -33,12 +33,14 @@
 
 # Upcoming 
 
-| About  |
-| ------------- |
-| Walrus operators |
-| Optimize SQL 2 |
-| Activation fuctions |
-| Black magics in Python |
+| About  | Tentative |
+| ------------- |----------- |
+| Floats secrets | 7/2 |
+| Shared memory secrets | 7/5 |
+| Optimize SQL 2 | 7/7 |
+| Activation fuctions | 7/12 |
+| Black magics | 7/15 |
+| Optics Clustering | 7/18 |
 
 
 ### More to come Just stay Tuned 😊
