@@ -13,7 +13,7 @@
 | About  | Code | Article |
 | ------------- | ------------- | ----------- |
 | Python Tricks  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Python-Tricks.md) | [Article](https://towardsdatascience.com/do-you-have-these-python-speedup-skills-3fd9e7758765) |
-| Funny Tricks | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/funny_eggs.md) | [Article](https://medium.com/@pawanjain.432/do-you-know-python-funny-eggs-decd12a0e06c) (Unlisted) |
+| Funny Tricks | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/funny_eggs.md) | [Article](https://medium.com/@pawanjain.432/do-you-know-python-funny-eggs-decd12a0e06c) (Undistributed) |
 | Memory Management | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Memory-Secrets.md) | [Article](https://towardsdatascience.com/dark-secrets-of-python-memory-allocation-c5d22879d8a9) |
 | Merge Lists  | [Code](https://github.com/pawangeek/Python-Resources/tree/master/Cool-stuff/Merging-lists.md) | [Article](https://towardsdatascience.com/i-know-eight-ways-to-merge-lists-3f80259bb74f) |
 | Built-in Functions  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Built-ins.md) | [Article](https://towardsdatascience.com/8-super-easy-to-use-python-built-in-functions-fa873e66085) |
