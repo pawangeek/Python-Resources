@@ -18,6 +18,7 @@
 | Merge Lists  | [Code](https://github.com/pawangeek/Python-Resources/tree/master/Cool-stuff/Merging-lists.md) | [Article](https://towardsdatascience.com/i-know-eight-ways-to-merge-lists-3f80259bb74f) |
 | Built-in Functions  | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Built-ins.md) | [Article](https://towardsdatascience.com/8-super-easy-to-use-python-built-in-functions-fa873e66085) |
 | Float secrets | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Float-secrets.md) | [Article](https://towardsdatascience.com/dark-secrets-of-python-floats-dbe2d1b8a85c)
+| Development tricks | [Code](https://github.com/pawangeek/Python-Resources/blob/master/Cool-stuff/Development-tricks.md) | [Article](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 
 # Sql-Resources
 
@@ -36,14 +37,10 @@
 
 # Upcoming 
 
-| About  | Tentative |
-| ------------- |----------- |
-| Development Tricks | 7/5 |
-| Optimize SQL 2 | 7/7 |
-| Activation fuctions | 7/12 |
-| Black magics | 7/15 |
-| Optics Clustering | 7/18 |
-| Shared econimy | 7/20
-
-
-
+| About  |
+| ------------- |
+| Optimize SQL 2 |
+| Activation fuctions |
+| Python Black magics |
+| Optics Clustering |
+| Python Shared economy |
