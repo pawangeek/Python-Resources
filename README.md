@@ -7,6 +7,8 @@
 | Containers | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/04.%20Container-types.md) |
 | Functions | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/05.%20Functions.md) |
 | Decorators | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/06.%20Decorators.md) |
+| Exception handling | [Link](https://github.com/pawangeek/Python-Resources/blob/master/Python/07.%20Exception-handling.md) |
+
 
 # Python-Resources
 
