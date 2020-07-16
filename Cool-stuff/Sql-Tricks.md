@@ -175,7 +175,6 @@ select * from user where age = 10
 `deptName` varchar(100) DEFAULT NULL;
 ```
 ### 16. Use explain to analyze your SQL plan
-**Counter-example**
 ```SQL
 explain select * from user where userid = 10086 or age =18;
 ```
